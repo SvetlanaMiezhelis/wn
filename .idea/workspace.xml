@@ -92,8 +92,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/templates/desktop/include/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+            <state relative-caret-position="306">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -102,8 +102,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/templates/desktop/include/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="414">
+              <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#footer#0;n#!!top" expanded="false" />
               </folding>
@@ -137,13 +137,11 @@
             <state relative-caret-position="-2451">
               <caret line="112" column="39" lean-forward="false" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
               <folding>
-                <marker date="1562605307491" expanded="true" signature="12035:12068" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12035:12083" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12035:12096" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12035:12222" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12035:12231" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12035:12239" ph="..." />
-                <marker date="1562605307491" expanded="true" signature="12130:12211" ph="..." />
+                <marker date="1562605659321" expanded="true" signature="12036:12069" ph="..." />
+                <marker date="1562605659321" expanded="true" signature="12036:12084" ph="..." />
+                <marker date="1562605659321" expanded="true" signature="12036:12223" ph="..." />
+                <marker date="1562605659321" expanded="true" signature="12036:12240" ph="..." />
+                <marker date="1562605659321" expanded="true" signature="12131:12212" ph="..." />
               </folding>
             </state>
           </provider>
@@ -234,8 +232,8 @@
         <option value="$PROJECT_DIR$/assets/css/desktop/grid-block.scss" />
         <option value="$PROJECT_DIR$/public/html/desktop/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/assets/templates/desktop/include/header.html" />
         <option value="$PROJECT_DIR$/assets/templates/desktop/include/footer.html" />
+        <option value="$PROJECT_DIR$/assets/templates/desktop/include/header.html" />
       </list>
     </option>
   </component>
@@ -287,32 +285,6 @@
             <path>
               <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
               <item name="dev-tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dev-tools" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="desktop" type="462c0819:PsiDirectoryNode" />
-              <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dev-tools" type="b2602c69:ProjectViewProjectNode" />
@@ -376,12 +348,12 @@
       <workItem from="1562403751239" duration="5544000" />
       <workItem from="1562490208952" duration="21390000" />
       <workItem from="1562526718254" duration="10434000" />
-      <workItem from="1562582253723" duration="12091000" />
+      <workItem from="1562582253723" duration="12498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96138000" />
+    <option name="totallyTimeSpent" value="96545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -395,7 +367,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34347826" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34347826" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -808,13 +780,11 @@
         <state relative-caret-position="-2451">
           <caret line="112" column="39" lean-forward="false" selection-start-line="112" selection-start-column="39" selection-end-line="112" selection-end-column="39" />
           <folding>
-            <marker date="1562605307491" expanded="true" signature="12035:12068" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12035:12083" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12035:12096" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12035:12222" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12035:12231" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12035:12239" ph="..." />
-            <marker date="1562605307491" expanded="true" signature="12130:12211" ph="..." />
+            <marker date="1562605659321" expanded="true" signature="12036:12069" ph="..." />
+            <marker date="1562605659321" expanded="true" signature="12036:12084" ph="..." />
+            <marker date="1562605659321" expanded="true" signature="12036:12223" ph="..." />
+            <marker date="1562605659321" expanded="true" signature="12036:12240" ph="..." />
+            <marker date="1562605659321" expanded="true" signature="12131:12212" ph="..." />
           </folding>
         </state>
       </provider>
@@ -858,16 +828,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/desktop/include/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        <state relative-caret-position="306">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/desktop/include/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="414">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="n#div#0;n#div#0;n#footer#0;n#!!top" expanded="false" />
           </folding>
