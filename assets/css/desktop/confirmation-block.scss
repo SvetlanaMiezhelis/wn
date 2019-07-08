@@ -1,0 +1,90 @@
+.confirmation-block {
+  width: 50%;
+  padding-right: 7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  &--modified{
+    width: 76%;
+
+    .grid__col:first-child{
+      width: 33%;
+    }
+
+    .grid__col:nth-child(2){
+      width: 66%;
+    }
+  }
+}
+
+.confirmation__check-wrapper {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+
+}
+
+.confirmation__button-wrapper{
+  flex: 0 0 auto;
+
+  .button{
+    width: 100%;
+  }
+}
+
+.confirmation__label {
+  margin: 0;
+  margin-right: 9px;
+  margin-top: 8px;
+
+}
+
+.confirmation__input {
+  display: none;
+}
+
+.confirmation__checkbox-indicator {
+  display: block;
+  border: 1px solid #ecedec;
+  box-sizing: border-box;
+  width: 25px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.confirmation__label .confirmation__input:checked + .confirmation__checkbox-indicator {
+  background-image: url("../../images/desktop/check.svg");
+}
+
+.confirmation__text{
+  width: 100%;
+}
+
+.confirmation__text,
+.confirmation__link {
+  margin-bottom: 0;
+  font-family: 'PF Din Text Comp Pro';
+  font-size: 12px;
+  line-height: 1.2;
+  color: #ffffff;
+
+
+}
+
+.confirmation__link {
+  display: inline-block;
+  text-decoration: underline;
+
+  &:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+}

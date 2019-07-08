@@ -1,0 +1,50 @@
+.lang-block {
+  position: absolute;
+  right: 45px;
+  top: 20px;
+}
+
+.lang__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.lang__item {
+  flex: 0 0 auto;
+  font-size: 22px;
+  color: #ffffff;
+}
+
+.lang__link {
+  display: block;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 700;
+  padding: 5px 0;
+  cursor: pointer;
+  transition: all 0.3s;
+  text-decoration: none;
+
+  &::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 1px;
+    background-color: transparent;
+    transition: all 0.3s;
+  }
+
+  &:hover{
+    color: #ffffff;
+
+    &::after{
+      background-color: #ffffff;
+    }
+  }
+}

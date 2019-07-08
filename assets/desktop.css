@@ -1,0 +1,20 @@
+@import url(css/desktop/_reset.css);
+@import url(css/desktop/_mixin.css);
+@import url(css/desktop/_default.css);
+@import url(css/desktop/_variables.css);
+@import url(css/desktop/header-block.scss);
+@import url(css/desktop/footer-block.scss);
+@import url(css/desktop/scaffolding.scss);
+@import url(css/desktop/lang-block.scss);
+@import url(css/desktop/sign-block.scss);
+@import url(css/desktop/info-block.scss);
+@import url(css/desktop/gallery-block.scss);
+@import url(css/desktop/select-item.scss);
+@import url(css/desktop/modal-block.scss);
+@import url(css/desktop/order-block.scss);
+@import url(css/desktop/guest-block.scss);
+@import url(css/desktop/confirmation-block.scss);
+@import url(css/desktop/grid-block.scss);
+
+
+

@@ -1,0 +1,113 @@
+html{
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-style: normal;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  cursor: default;
+}
+
+
+.page-wrapper{
+  height: 100vh;
+  min-height: 900px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+
+  background-image: url("../../images/desktop/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center 90%;
+  background-size: cover;
+
+  &--blured{
+    filter: blur(5px);
+
+    .order-block{
+      opacity: 0;
+    }
+  }
+}
+
+
+.page-overlay{
+  &--active{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0;
+    background: rgba(198, 38, 57, 0.8);
+    z-index: 1;
+  }
+}
+
+.page-field{
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  border: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: #FFFFFF;
+  box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.5);
+  padding: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(0, 47, 99, 0.8);
+  height: 50px;
+  text-transform: uppercase;
+  width: 100%;
+  max-width: 240px;
+
+  &::placeholder{
+    color: rgba(0, 47, 99, 0.5);
+  }
+}
+
+.page-field[name="date"]{
+  background-image: url(../../images/desktop/clock.svg);
+  background-repeat: no-repeat;
+  background-position: right 15px center;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1135px;
+  padding-left: 65px;
+  padding-right: 65px;
+  width: 100%;
+}
+
+.button{
+  font-size: 25px;
+  line-height: 1.2;
+  text-align: center;
+  color: #ffffff;
+  background: #002F63;
+  border: none;
+  border-radius: 0;
+  padding: 10px 20px;
+
+  &:hover{
+
+  }
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BudBoldCyr';
+    src: url('/fonts/BudBoldCyr/BudBoldCyr.woff2') format('woff2'),
+        url('/fonts/BudBoldCyr/BudBoldCyr.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PF Din Text Cond Pro';
+    src: url('/fonts/PFDinTextCondPro/PFDinTextCondPro-regular.woff2') format('woff2'),
+    url('/fonts/PFDinTextCondPro/PFDinTextCondPro-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PF Din Text Comp Pro';
+    src: url('/fonts/PFDinTextCompPro/PFDinTextCompPro-regular.woff2') format('woff2'),
+    url('/fonts/PFDinTextCompPro/PFDinTextCompPro-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desktop.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.2.1",
+    "js-cookie": "^2.2.0",
+    "swiper": "^4.3.3"
+  }
+}
